@@ -5,3 +5,5 @@
 /.vs
 /ElibraryApp.Web/bin/Debug/net8.0
 /ElibraryApp.Web/obj
+*obj
+*bin
